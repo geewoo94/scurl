@@ -1,0 +1,6 @@
+argh==0.26.2
+autopep8==1.5.7
+pycodestyle==2.7.0
+PyYAML==5.4.1
+toml==0.10.2
+watchdog==2.1.2
